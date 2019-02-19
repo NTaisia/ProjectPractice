@@ -1,0 +1,59 @@
+html, body,h1, h2, h3, h5{
+  font-family: "Raleway", sans-serif !important;
+}
+html, body{
+  line-height: 1.8 !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgb(230, 222, 222);
+  transition: 0.5s;
+}
+
+.w3-bar-item {
+  padding: 18px 16px !important;
+}
+.bgimg{
+  height:700px ;
+  background-image: url("images/macbook.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.bgimg .padd{
+  padding: 48px !important;
+}
+.add-padding.w3-container{
+padding: 128px 16px !important;
+}
+.w3-quarter{
+  padding: 0 !important;
+}
+.contact-team{
+  width: 100%;
+}
+.w3-col{
+  padding:8px 8px !important;
+}
+.w3-row-padding{
+  margin-top: 16px;
+}
+ul li{
+  padding: 16px 16px !important;
+}
+.w3-input{
+  margin-bottom:15px; 
+}
+.w3-container .fab{
+  font-size: 20px;
+}
+.w3-container .w3css a{
+  text-decoration: underline;
+}
+.w3-container .w3css a:hover{
+  color: green;
+  background: black;
+}
